@@ -1,0 +1,81 @@
+body{
+  height: 100%;
+  opacity: 0.75;
+}
+
+.h1 {
+  color: white;
+  font face: "Cambria Math";
+  font-size: 40px;
+  margin: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  left: 600px;
+}
+
+.h2 {
+  color: blue;
+  font face: "Cambria Math";
+  font-size: 20px;
+  top:0px;
+  margin: 10px;
+  position: absolute;
+  text-align: left;
+  top: 150px;
+  left: 16px;
+  border: purple solid 10px;
+  float: left;
+  border-radius: 10px;
+}
+
+p{
+    color: white;
+    font: "Times New Roman"
+    font-size: 12px;
+    margin: 2px;
+}
+.h3{
+  color: aqua;
+  position: absolute;
+  text-align: right;
+  font-size: 20px;
+  font-style: italic;
+  font:"Cambria";
+  margin: 8px;
+  top: 350px;
+  right: 16px;
+  border: rgb(247, 233, 142) solid 8px;
+  float: right;
+  border-radius: 15px;
+}
+
+.h4 {
+  color: #838996;
+  position: absolute;
+  text-align: left;
+  font-size: 20px;
+  font-style: normal;
+  font:"Times New Roman";
+  margin: 0px;
+  top: 650px;
+  left: 16px;
+  border: rgb(247, 233, 142) solid 8px;
+  float: left;
+  border-radius: 10px;
+}
+
+.h5 {
+  color: blue;
+  position: absolute;
+  text-align: left;
+  font-size: 20px;
+  font-style: normal;
+  font:"Cambria";
+  margin: 0px;
+  top: 1200px;
+  left: auto: 0px;
+  border: purple solid 8px;
+  float: left;
+  border-radius: 10px;
+}
