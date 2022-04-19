@@ -1,0 +1,50 @@
+body{
+  background-color:#004d4d;
+  background-size: cover;
+  border: #fae7b5 solid 10px;
+  border-radius: 15px;
+  border-size: cover;
+  color: gray;
+}
+.header1{
+  font: "Dante";
+  font-size: 60px;
+  text-align: center;
+  color: #fdf5e6
+
+}
+.video{
+  text-align: center;
+}
+.header2{
+  font: "Times";
+  font-size: 25px;
+  color: white;
+  background-color: #e5aa70;
+  text-align: center;
+  margin-bottom: -120px;
+}
+table{
+  background-color:#008585;
+  color: white;
+  margin-left:auto;
+  margin-right: auto;
+  border-radius: 8px;
+  border:#fae7b5 double 10px
+}
+table tr th{
+  padding-left:20px;
+  padding-right:20px;
+  text-align: center;
+  font-size: 16px;
+  font: "Calibri";
+  font-style: oblique;
+  color:#eae0c8;
+}
+
+table tr td{
+  padding: 5px;
+  padding-right: 30px;
+  text-align: right;
+  font-size: 16px;
+}
