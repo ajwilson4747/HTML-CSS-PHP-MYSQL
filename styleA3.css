@@ -1,0 +1,83 @@
+* {
+  -webkit-box-sharing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.grid{
+margin: 0 auto;
+max-width: 1200px;
+}
+.row1{
+    display: flex;
+    background-color: #b0e0e6;
+}
+#logo{
+  margin-top: 25px;
+  float: left;
+}
+h1{
+  top: 0px;
+  font size: 16px;
+  font-family: "Dante";
+  color: black;
+  text-align: right;
+}
+
+h2{
+  top: 0px;
+  font size: 6px;
+  font-family: "Times New Roman";
+  color: #f8f8ff;
+  text-align: right;
+}
+body{
+  background-color: #008b8b;
+}
+
+#fish{
+  border: #e6be8a double 8px;
+  margin-top: 100px;
+  width:5500px;
+  height: 500px;
+  align: center;
+}
+
+h3{
+  font-family: "Dante";
+  font-size: 25px;
+  color:#e6be8a;
+}
+
+#pose{
+  border: #779ecb double 8px;
+}
+
+.caption1{
+  font-family: "Candara";
+  color: white;
+  font-size: 20px;
+  text-align: left;
+}
+
+#friends{
+  border: #779ecb double 8px;
+  margin-left: 100px;
+
+}
+
+.caption2{
+  font-family: "Candara";
+  color: #a2a2d0;
+  font-size: 20px;
+  text-align: center;
+}
+#bonelli{
+  border: #779ecb double 8px;
+}
+
+.caption3{
+  font-family: "Candara";
+  color: white;
+  font-size: 20px;
+  text-align: right;
+}
